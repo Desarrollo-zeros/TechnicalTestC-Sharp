@@ -1,0 +1,182 @@
+# Compiled Object files
+*.o
+*.i
+*.ii
+*.s
+*.swp
+*.obj
+*.dll
+*.lib
+*.so
+*.a
+*.pdb
+*.lo
+*.la
+*.a
+*.lai
+*.la
+*.lai
+*.o
+*.lo
+*.Plo
+*.dylib
+*.ilk
+*.exp
+*.idb
+*.pdb
+
+# Compiled Static libraries
+*.lib
+*.a
+*.la
+*.lai
+*.lai
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+*.jar
+
+# Java class files
+*.class
+
+# Lua intermediate files
+*.luac
+
+# D trace intermediate files
+*.d
+*.dtrace
+*.dSYM
+*.core
+
+# D trace intermediate files
+*.dtrace
+*.dSYM
+*.core
+
+# JetBrains Rider
+.idea/
+
+# Rider logs
+*.log
+
+# Rider caches
+.idea/
+.idea/*
+
+# Rider project files
+*.sln.iml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.psess
+*.vsp
+*.vspx
+*.log
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.vscode/*
+.vscode/.vscode
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/settings.json
+.vscode/extensions.json
+
+# Resharper files
+_ReSharper*/
+*.[rR]e[Ss]harper
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto generated files
+Debug/
+DebugPublic/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Mm][Vv]7/
+bld/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+obj/
+[Ll]oginSessionData/
+__pycache__/
+tests/
+Tests/
+Tools/
+node_modules/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto generated files
+bin/
+obj/
+*.exe
+*.dll
+*.lib
+*.app
+*.so
+*.dylib
+*.nupkg
+*.crf
+*.tmp
+*.swp
+*.lock
+*.pid
+*.log
+*.sql
+*.sql.dump
+*.diff
+
+# Auto generated VS 2015 folder
+.vs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.origin
+*.merged
+*.resolved
+*.rej
+
+# IDEs
+*.vscode
+.vscode/
+.vscode/*
+.idea/
+.idea/*
